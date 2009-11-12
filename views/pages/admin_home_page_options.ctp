@@ -1,0 +1,1 @@
+<?php echo $form->input('home_page_option', array('selected' => $this->params['named']['fieldValue'], 'name' => $this->params['named']['fieldName'], 'options' => $pages, 'empty' => 'List of pages', 'div' => array('id' => 'homePageOptions')));?>
