@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin>
 	<id>3a4bf696-41b1-4b03-8638-c33189baaa27</id>
-	<title>CMScout Static Page</title>
+	<title>CMScout Content Management</title>
 	<version>1.0</version>
 	<category>Content</category>
-	<type>page</type>
+	<type>content</type>
+	<author>CMScout</author>
+	<description>A generic content mangement plugin.</description>
 </plugin>
